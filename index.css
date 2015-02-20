@@ -1,0 +1,7 @@
+/* CSS DOC for major styles */
+.indent{padding-left:20px;}
+.extraIndent{padding-left:35px;}
+.tiny{font-size:12px;}
+.big{font-size:118%}
+.space{padding:20px;}
+.shadowBox{box-shadow:2px 2px 2px #CCC;}
