@@ -4,4 +4,7 @@
 .tiny{font-size:12px;}
 .big{font-size:118%}
 .space{padding:20px;}
-.shadowBox{box-shadow:2px 2px 2px #CCC;}
+.shadowBox{box-shadow:1px 2px 2px #CCC;}
+
+.mar{margin:12px;}
+
